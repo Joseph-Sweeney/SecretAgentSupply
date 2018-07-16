@@ -31,3 +31,28 @@ body {
   height: 1.5rem;
   padding-right: 1rem;
 }
+
+/* Main Banner */
+
+.main-banner {
+  background: url("../images/moto.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25rem;
+}
+
+.headline {
+  background-color: black;
+  color: white;
+  padding: 2rem 3rem;
+  width: 20rem;
+  position: relative;
+  top: 9rem;
+}
+
+.headline h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 0.25rem 0;
+}
